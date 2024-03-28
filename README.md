@@ -1,6 +1,6 @@
  <p text
 <h1 Hi GitHub comunity<\h>
-<\p>
+</p>
 
 
 - 👋 I’m @Viktoryurist1
