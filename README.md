@@ -1,12 +1,9 @@
 
-# ===Hi GitHub comunity===
+# Hi GitHub comunity
 
-
- 
- # Насправді бся торкатись файлів після того як все пропало
-
-
-## - 👋 I’m @Viktoryurist1
+## - 👋 I’m @Viktoryurist1 bat my mаи name me Viktor!
+## - I am from Ukraine 🇺🇦!
+## - Моя иова українська, якщо Ви прочитали і зрозуміли цей текст. Пишіть поспілкуємось!
 ## - 👀 I’m interested in ...
 ## - 🌱 I’m currently learning ...
 ## - 💞️ I’m looking to collaborate on ...
