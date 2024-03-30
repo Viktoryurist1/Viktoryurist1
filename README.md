@@ -1,10 +1,10 @@
 
 # Hi GitHub comunity
 
-## - 👋 I’m @Viktoryurist1 bat my mаи name me Viktor!
-## - I am from Ukraine 🇺🇦!
-## - Моя иова українська, якщо Ви прочитали і зрозуміли цей текст. Пишіть поспілкуємось!
-## - 👀 I’m interested in ...
+## - 👋 I’m @Viktoryurist1 bat my mаm name me Viktor!
+## - I am from Ukraine 🇺🇦 Rivne sity!
+## - Моя мова українська, якщо Ви прочитали і зрозуміли цей текст. Пишіть поспілкуємось!
+## - 👀 I’m interested in coding, database, organization of information!
 ## - 🌱 I’m currently learning ...
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me ...
