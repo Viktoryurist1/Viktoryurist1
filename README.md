@@ -10,8 +10,11 @@
 ## - 📫 How to reach me ...
 ## - 😄 Pronouns: ...
 ## - ⚡ Fun fact: ...
-## - ![kub]
-(images/img_2485.png)
+## - ![kub](images/img_2485.png)
+[fggg][^1]
+
+[1]
+
 
 
 
