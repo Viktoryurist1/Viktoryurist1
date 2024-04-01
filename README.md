@@ -1,17 +1,19 @@
 
 # Hi GitHub comunity
 
-## - 👋 I’m @Viktoryurist1 bat my mаm name me Viktor!
+## - 👋 I’m @Viktoryurist1 bat my mаm name me Viktor! 
 ## - I am from Ukraine 🇺🇦 Rivne sity!
 ## - Моя мова українська, якщо Ви прочитали і зрозуміли цей текст. Пишіть поспілкуємось!
 ## - 👀 I’m interested in coding, database, organization of information!
-## - 🌱 I’m currently learning MarcDown ...
+## - 🌱 I’m currently learning [MarcDown][1] ...
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me ...
 ## - 😄 Pronouns: ...
 ## - ⚡ Fun fact: ...
-## - ![kub]
-(images/img_2485.png)
+## - 
+ ![kub](images/img_2485.png)
+
+[1]https://commonmark.org/help/tutorial/07-links.html"MarkDown"
 
 
 
