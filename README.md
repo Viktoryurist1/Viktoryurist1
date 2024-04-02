@@ -13,6 +13,7 @@
 ## - 🖼️ My first images in this text
 ![](IMG_2465.png)
 ![image](https://github.com/Viktoryurist1/Viktoryurist1/assets/159012136/26c269d8-54fd-4097-8cb1-a077bc4e666c)
+![](IMG_2471.png)
 
 <!---
 Viktoryurist1/Viktoryurist1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
