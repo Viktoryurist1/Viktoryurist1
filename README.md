@@ -9,12 +9,9 @@
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me ...
 ## - 😄 Pronouns: ...
-## - ⚡ Fun fact: ...
-## - 
-
-![](IMG_2465.png). 
-
-## - First imag in text! 
+## - ⚡ Fun fact:  Allodoxaphobia is the fear of other people's opinions. It's a rare social phobia that's characterised by an irrational and overwhelming fear of what other people think.
+## - 🖼️ My first images in this text
+![](IMG_2465.png)
 ![image](https://github.com/Viktoryurist1/Viktoryurist1/assets/159012136/26c269d8-54fd-4097-8cb1-a077bc4e666c)
 
 <!---
