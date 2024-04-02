@@ -11,12 +11,11 @@
 ## - 😄 Pronouns: ...
 ## - ⚡ Fun fact: ...
 ## - 
-[[a tak]] 
 
-![kub](images/img_2485.png)
-[fggg][^1]
+![](img_2485.png)
 
-[^1]
+
+
 
 
 
