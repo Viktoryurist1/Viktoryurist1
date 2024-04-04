@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Поточна дата</title>
+    </head>
+    <body>
+        <p>Сьогоднішня дата: <?php echo date('d.m.Y'); ?></p>
+    </body>
+</html>
+
 
 # Hi GitHub comunity
 
