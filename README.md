@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Моя перша веб-сторінка</title>
+    </head>
+    <body>
+        <h1>Вітаю на моїй сторінці!</h1>
+        <p>Це перший абзац.</p>
+        <a href="https://example.com">Посилання на інший сайт</a>
+    </body>
+</html>
+
+<!---
+<!DOCTYPE html>
+<html>
+    <head>
         <title>Поточна дата</title>
     </head>
     <body>
         <p>Сьогоднішня дата: <?php echo date('d.m.Y'); ?></p>
     </body>
 </html>
+--->
+
 
 
 # Hi GitHub comunity
