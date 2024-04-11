@@ -1,4 +1,4 @@
-{
+{{
     "allOf": [
         {
             "$ref": "./devContainer.base.schema.json"
