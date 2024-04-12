@@ -1,4 +1,4 @@
-{
+    {
     "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
         "allOn":[
         {
@@ -11,4 +11,4 @@
             "$ref": "https://raw.githubusercontent.com/microsoft/vscode/main/extensions/configuration-editing/schemas/devContainer.vscode.schema.json"
         }
         [
-}
+    }
