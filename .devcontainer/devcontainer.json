@@ -1,4 +1,5 @@
-{"ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
+{
+    "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
         "allOn":[
         {
             "$ref": "./devContainer.base.schema.json"
